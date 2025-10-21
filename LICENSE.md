@@ -2,11 +2,10 @@
 
 ## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This work includes redrawn and adapted versions of the **Open Science Badges** originally created by the  
-[Center for Open Science (COS)](https://www.cos.io/initiatives/badges),  
-licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This work includes redrawn and adapted versions of the **Open Science Badges** (small versions) originally created by the  
+[Center for Open Science (COS)](https://www.cos.io/initiatives/badges), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-All redrawn badge icons and additional adaptations © 2025 Tina Keil / PsychOpen  
+All redrawn badge icons and additional adaptations © 2025 Tina Keil / PsychOpen GOLD  
 and are released under the same [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to:
